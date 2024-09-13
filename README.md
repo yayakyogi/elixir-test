@@ -1,4 +1,4 @@
-# Learn Elixir Crate UsersApi
+# Learn Elixir Create UsersApi
 
 To start your Phoenix server:
 
